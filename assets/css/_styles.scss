@@ -1,0 +1,21 @@
+* {
+    line-height: 1.5;
+}
+
+.add-entity-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    .input-container {
+    }
+
+    label {
+        font-weight: bold;
+    }
+    
+    input {
+        display: block;
+        font-size: 1em;
+    }
+}
